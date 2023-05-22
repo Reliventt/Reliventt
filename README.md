@@ -26,7 +26,7 @@ module.exports = new Person({
 <img src="https://lanyard-profile-readme.vercel.app/api/808656625766236220?theme=dark&bg=1a1b27&borderRadius=8px&animated=true&hideDiscrim=false&hideStatus=false&hideTimestamp=false&hideBadges=false&hideProfile=false">
 <h2 align="left">👨‍💻 I'm Currently Working On</h2>
 <ul>
-  <li><a href="https://codeartz.studio">CodeArtz</a> <a href="https://discord.gg/codeartz" title="Team Discord Server"><img alt="Team Discord Server" title="Team Discord Server" src="https://img.shields.io/badge/CodeArtz-%237289DA.svg?logo=discord&logoColor=white"/></a> (Currently Down)</li>
+  <li><a href="https://codeartz.studio">CodeArtz</a> (Currently Down)</li>
   <li>My Portfolio Website (I Will Work Soon...)</li>
   <li>Remote Access Trojan (Electron)</li>
   <li>My Old Projects</li>
