@@ -9,8 +9,8 @@ export class Relivent {
     this.sex = "he",
     this.length = "1.78",
     this.job = "student",
-    languages: ["tr", "en", "de"],
-    technologies: ["javascript", "typescript", "html", "css", "nuxtjs", "vue", "electron", "expressjs"]
+    this.languages: ["tr", "en", "de"],
+    this.technologies: ["javascript", "typescript", "html", "css", "nuxtjs", "vue", "electron", "expressjs"]
   }
 };
 ```
