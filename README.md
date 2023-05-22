@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1029457179629072495/1110152542983295036/github-header-image_5.png" width="100%">
+<img src="https://cdn.discordapp.com/attachments/977912961312108584/1110153465486909450/github-header-image_8.png?size=4096" width="100%">
 
 ```js
 class Person {
