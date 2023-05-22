@@ -15,7 +15,7 @@ module.exports = new Person({
   nickname: "Relivent",
   age: 18,
   languages: ["tr", "en", "de"],
-  technologies: ["javascript", "typescript", "html", "css", "nuxtjs", "vue", "electron", "expressjs", "socketio"]
+  technologies: ["javascript", "typescript", "html", "css", "nuxtjs", "vue", "electron", "expressjs"]
 });
 ```
 <div align="center"><img src="https://komarev.com/ghpvc/?username=reliventt&color=blue&style=for-the-badge"></div>
