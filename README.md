@@ -54,8 +54,8 @@ module.exports = new Person({
 <br clear="both">
 <details>
   <summary><h2>My Github Stats</h2></summary>
-  <img src="https://streak-stats.demolab.com?user=reliventt&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=reliventt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8"/>
+  <img src="https://streak-stats.demolab.com?user=reliventt&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=reliventt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reliventt&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10"/>
 </details>
 <img src="https://raw.githubusercontent.com/reliventt/reliventt/output/snake.svg"/>
