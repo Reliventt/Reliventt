@@ -18,11 +18,22 @@ module.exports = new Person({
   technologies: ["javascript", "typescript", "html", "css", "nuxtjs", "vue", "electron", "expressjs", "socketio"]
 });
 ```
-
-* 🔭 I’m currently working on [Codeartz](codeartz.studio)
-
-* 👨‍💻 All of my projects are available at [My Profile](codeartz.studio/relivent)
-
+<h2 align="left">My Accounts</h2>
+  <a href="https://instagram.com/relivent.dev" title="Instagram"><img alt="My Team Discord" title="My Instagram Account" src="https://img.shields.io/badge/-My%20Instagram%20Account-C13584"/></a>
+  <a href="https://discord.com/users/808656625766236220" title="My Discord Account"><img alt="My Team Discord" title="My Discord Account" src="https://img.shields.io/badge/-My%20Discord%20Account-blue"/></a>
+  <a href="https://discord.gg/codeartz" title="Team Discord Server"><img alt="Team Discord Server" title="Team Discord Server" src="https://img.shields.io/badge/-Team%20Discord%20Server-blue"/></a>
+<h2 align="left">👨‍💻 I'm Currently Working On</h2>
+<ul>
+  <li><a href="https://codeartz.studio">Codeartz</a> (Currently Down)</li>
+  <li>My Portfolio Website (I Will Work Soon...)</li>
+  <li>Remote Access Trojan (Electron)</li>
+  <li>My Old Projects</li>
+</ul>
+<h2 align="left">🔭 I'm Currently Learning</h2>
+<ul>
+  <li>Nuxt.JS (Vue)</li>
+  <li>Figma</li>
+</ul>
 <h2 align="left">Technologies I Use</h2>
 <div align="left">
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"/></a>
@@ -37,18 +48,12 @@ module.exports = new Person({
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32"/></a>
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="32" height="32"/></a>
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="32" height="32"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="32" height="32"/></a>
 </div>
-<br>
-
-
-<details align="center">
-  <summary>My Github Stats</summary>
-    <img src="https://streak-stats.demolab.com?user=reliventt&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10"/>
-</details>
 <br clear="both">
+<details>
+  <summary><h2>My Github Stats</h2></summary>
+  <img src="https://streak-stats.demolab.com?user=reliventt&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=reliventt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reliventt&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10"/>
+</details>
 <img src="https://raw.githubusercontent.com/reliventt/reliventt/output/snake.svg"/>
