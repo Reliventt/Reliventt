@@ -54,4 +54,3 @@ export class Relivent {
   <img src="https://github-readme-stats.vercel.app/api?username=reliventt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reliventt&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10"/>
 </details>
-<img src="https://raw.githubusercontent.com/reliventt/reliventt/output/snake.svg"/>
