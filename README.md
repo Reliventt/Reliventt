@@ -1,22 +1,18 @@
 <img src="https://cdn.discordapp.com/attachments/977912961312108584/1110153465486909450/github-header-image_8.png?size=4096" width="100%">
 
 ```js
-class Person {
-  constructor(opt) {
-    this.name = opt.name;
-    this.nickname = opt.nickname;
-    this.age = opt.age;
-    this.languages = opt.langs;
+export class Relivent {
+  constructor() {
+    this.name = "Arda";
+    this.nickname = "Relivent";
+    this.age = 18;
+    this.sex = "he",
+    this.length = "1.78",
+    this.job = "student",
+    languages: ["tr", "en", "de"],
+    technologies: ["javascript", "typescript", "html", "css", "nuxtjs", "vue", "electron", "expressjs"]
   }
 };
-
-module.exports = new Person({
-  name: "Arda",
-  nickname: "Relivent",
-  age: 18,
-  languages: ["tr", "en", "de"],
-  technologies: ["javascript", "typescript", "html", "css", "nuxtjs", "vue", "electron", "expressjs"]
-});
 ```
 <div align="center"><img src="https://komarev.com/ghpvc/?username=reliventt&color=blue&style=for-the-badge"></div>
 <h2 align="left">My Accounts</h2>
