@@ -7,7 +7,6 @@ export class Relivent {
     this.nickname = "Relivent";
     this.age = 18;
     this.sex = "he",
-    this.length = "1.78",
     this.job = "student",
     this.languages: ["tr", "en", "de"],
     this.technologies: ["javascript", "typescript", "html", "css", "nuxtjs", "vue", "electron", "expressjs"]
