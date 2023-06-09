@@ -21,7 +21,7 @@ export class Relivent {
 <img src="https://lanyard-profile-readme.vercel.app/api/808656625766236220?theme=dark&bg=1a1b27&borderRadius=8px&animated=true&hideDiscrim=false&hideStatus=false&hideTimestamp=false&hideBadges=false&hideProfile=false" alt="Lanyard Widget">
 <h2 align="left">👨‍💻 I'm Currently Working On</h2>
 <ul>
-  <li><a href="https://codeartz.studio">CodeArtz</a> (Currently Down)</li>
+  <li><a href="https://codeartz.studio">CodeArtz</a></li>
   <li>My Portfolio Website (I Will Work Soon...)</li>
   <li>My Old Projects</li>
 </ul>
