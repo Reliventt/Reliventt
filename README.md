@@ -4,6 +4,7 @@
 export class Relivent {
   constructor() {
     this.name = "Arda";
+    this.surname = "Öztürk";
     this.nickname = "Relivent";
     this.age = 18;
     this.sex = "he",
